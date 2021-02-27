@@ -1,0 +1,108 @@
+<NewProduct>
+  <code>3d3fn4</code>
+  <type>PN</type>
+  <name>PlayStation 5 Digital Edition</name>
+  <basePrice>399.99</basePrice>
+</NewProduct>
+<NewProduct>
+  <code>e6ta5e</code>
+  <type>PN</type>
+  <name>Nintendo Switch Lite</name>
+  <basePrice>199.99</basePrice>
+</NewProduct>
+<NewProduct>
+  <code>6crw34</code>
+  <type>PN</type>
+  <name>Splatoon 2 (Digital Copy)</name>
+  <basePrice>59.99</basePrice>
+</NewProduct>
+<NewProduct>
+  <code>ct69sd</code>
+  <type>PN</type>
+  <name>Fortnite V-Bucks</name>
+  <basePrice>19.99</basePrice>
+</NewProduct>
+<GiftCard>
+  <code>420blz</code>
+  <type>PG</type>
+  <name>Nintendo Digital Gold</name>
+  <basePrice>0.0</basePrice>
+</GiftCard>
+<GiftCard>
+  <code>69o42o</code>
+  <type>PG</type>
+  <name>Steam</name>
+  <basePrice>0.0</basePrice>
+</GiftCard>
+<GiftCard>
+  <code>8a39dr</code>
+  <type>PG</type>
+  <name>Android Store</name>
+  <basePrice>0.0</basePrice>
+</GiftCard>
+<GiftCard>
+  <code>daad1d</code>
+  <type>PG</type>
+  <name>Robux</name>
+  <basePrice>0.0</basePrice>
+</GiftCard>
+<UsedProduct>
+  <code>649d92</code>
+  <type>PU</type>
+  <name>Legend of Zelda (NES)</name>
+  <basePrice>24.5</basePrice>
+</UsedProduct>
+<UsedProduct>
+  <code>0ed5re</code>
+  <type>PU</type>
+  <name>Animal Crossings</name>
+  <basePrice>59.99</basePrice>
+</UsedProduct>
+<UsedProduct>
+  <code>9bsbk3</code>
+  <type>PU</type>
+  <name>Oculus Rift</name>
+  <basePrice>199.99</basePrice>
+</UsedProduct>
+<UsedProduct>
+  <code>40arte</code>
+  <type>PU</type>
+  <name>Vive</name>
+  <basePrice>599.99</basePrice>
+</UsedProduct>
+<Service>
+  <code>qu4k39</code>
+  <type>SV</type>
+  <name>Console Repair</name>
+  <basePrice>59.99</basePrice>
+</Service>
+<Service>
+  <code>d00nie</code>
+  <type>SV</type>
+  <name>VR Party Rental</name>
+  <basePrice>120.0</basePrice>
+</Service>
+<Service>
+  <code>six942</code>
+  <type>SV</type>
+  <name>Game Addiction Counseling</name>
+  <basePrice>1.99</basePrice>
+</Service>
+<Subscription>
+  <code>426dda</code>
+  <type>SB</type>
+  <name>X-Box Live</name>
+  <basePrice>50.0</basePrice>
+</Subscription>
+<Subscription>
+  <code>dedd44</code>
+  <type>SB</type>
+  <name>Nintendo Power magazine</name>
+  <basePrice>120.0</basePrice>
+</Subscription>
+<Subscription>
+  <code>3506f6</code>
+  <type>SB</type>
+  <name>Disney Plus</name>
+  <basePrice>89.99</basePrice>
+</Subscription>
